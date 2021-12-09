@@ -1,11 +1,11 @@
 @font-face {
   font-family: "layers";
-  src: url("../font/layers.eot?92781108");
-  src: url("../font/layers.eot?92781108#iefix") format("embedded-opentype"),
-    url("../font/layers.woff2?92781108") format("woff2"),
-    url("../font/layers.woff?92781108") format("woff"),
-    url("../font/layers.ttf?92781108") format("truetype"),
-    url("../font/layers.svg?92781108#layers") format("svg");
+  src: url("./layers/");
+  src: url("./layers/#iefix") format("embedded-opentype"),
+    url("./layers/layers.woff2?92781108") format("woff2"),
+    url("./layers/layers.woff?92781108") format("woff"),
+    url("./layers/layers.ttf?92781108") format("truetype"),
+    url("./layers/layers.svg?92781108#layers") format("svg");
   font-weight: normal;
   font-style: normal;
 }
