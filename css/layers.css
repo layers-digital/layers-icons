@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'layers';
-  src: url('../font/layers.eot?13091059');
-  src: url('../font/layers.eot?13091059#iefix') format('embedded-opentype'),
-       url('../font/layers.woff2?13091059') format('woff2'),
-       url('../font/layers.woff?13091059') format('woff'),
-       url('../font/layers.ttf?13091059') format('truetype'),
-       url('../font/layers.svg?13091059#layers') format('svg');
+  src: url('../font/layers.eot?11168359');
+  src: url('../font/layers.eot?11168359#iefix') format('embedded-opentype'),
+       url('../font/layers.woff2?11168359') format('woff2'),
+       url('../font/layers.woff?11168359') format('woff'),
+       url('../font/layers.ttf?11168359') format('truetype'),
+       url('../font/layers.svg?11168359#layers') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'layers';
-    src: url('../font/layers.svg?13091059#layers') format('svg');
+    src: url('../font/layers.svg?11168359#layers') format('svg');
   }
 }
 */
@@ -254,3 +254,4 @@
 .lay-key-skeleton:before { content: '\e8c5'; } /* '' */
 .lay-images:before { content: '\e8c6'; } /* '' */
 .lay-check-circle-fill:before { content: '\e8c7'; } /* '' */
+.lay-file:before { content: '\e8c8'; } /* '' */
