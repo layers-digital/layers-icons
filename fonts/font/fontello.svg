@@ -1,10 +1,10 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
 <defs>
-<font id="layers" horiz-adv-x="1000" >
-<font-face font-family="layers" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
 <missing-glyph horiz-adv-x="1000" />
 <glyph glyph-name="info-circle" unicode="&#xe800;" d="M500 767a417 417 0 1 1 417-417 417 417 0 0 1-417 417z m0-750a333 333 0 1 0 333 333 334 334 0 0 0-333-333z m0 354a42 42 0 0 1-42-42v-125a42 42 0 0 1 84 0v125a42 42 0 0 1-42 42z m0 167a52 52 0 1 1 52-53 52 52 0 0 1-52 53z" horiz-adv-x="1000" />
 
